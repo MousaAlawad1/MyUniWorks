@@ -27,7 +27,7 @@
 - ./scripts/report.sh
 
 # 3 <p align="center"><strong>Result Excuting Command ```git log --online``` </strong></p>
-![photo](https://raw.githubusercontent.com/MousaAlawad/master/main/images/scr1.png)
+![photo](https://raw.githubusercontent.com/MousaAlawad1/MyUniWorks/refs/heads/master/Lab-Report/scr1.png)
 
 # 4 : Short Assessment Questions
 1. **ما الفرق بين `>` و `>>` و `&>`؟**  
